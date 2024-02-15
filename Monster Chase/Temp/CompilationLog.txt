@@ -1,0 +1,26 @@
+# Starting compiling UnityEngine.TestRunner.dll
+E:\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-5c002fc8b231016489f4ea83fbc71a3e
+# Starting compiling UnityEngine.UI.dll
+E:\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-d179d32d537fef94591618bfe2519092
+# Starting compiling Unity.InternalAPIEngineBridge.001.dll
+E:\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-963bd7e4e664e4e47934c1800809adcf
+# Starting compiling Unity.2D.PixelPerfect.dll
+E:\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-403b658615a1fc54492606444e52bea8
+# Starting compiling Unity.Timeline.dll
+E:\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-59065d431be76ff40bcb4fe0a3664124
+# Starting compiling Unity.TextMeshPro.dll
+E:\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-53c77a94dead2864eb9548f23690fa90
+# Starting compiling Unity.Mathematics.dll
+E:\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-7754011c43455804cb5649dfd7da279f
+# Starting compiling Unity.2D.IK.Runtime.dll
+E:\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-4caeeb57e9ec67646af8e3324fdafac9
+# Starting compiling Unity.2D.Animation.Triangle.Runtime.dll
+E:\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-2aac49a15e6e12e4b90e7e36eb79dd94
+# Starting compiling Unity.2D.Common.Runtime.dll
+E:\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-233ca3799cf91274598db5f95bc2f04a
+# Starting compiling Unity.2D.Animation.Runtime.dll
+E:\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-476417a1f0d093045b2642dd91ae4dd0
+# Starting compiling Unity.2D.SpriteShape.Runtime.dll
+E:\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-26fa6ce16b6f8d04d9da14855cff51f3
+# Starting compiling Assembly-CSharp.dll
+E:\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-8a98a0e687d7e4041824af490a4aada2

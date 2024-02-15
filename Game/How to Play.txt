@@ -1,0 +1,5 @@
+Choose Player whith mouse click.
+
+Move with left and right arrow keys.
+
+Jump with space bar.    
